@@ -1,5 +1,15 @@
 # @consolelabs/sidebar
 
+## 0.0.12
+
+### Patch Changes
+
+- Updated dependencies
+  [[`cacf81d`](https://github.com/consolelabs/web-foundation/commit/cacf81d6a9798532db711c3e9805f1dcecdb6226)]:
+  - @consolelabs/theme@0.1.1
+  - @consolelabs/accordion@0.0.11
+  - @consolelabs/tooltip@0.0.9
+
 ## 0.0.11
 
 ### Patch Changes

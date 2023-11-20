@@ -1,5 +1,14 @@
 # @consolelabs/profile-badge
 
+## 0.0.10
+
+### Patch Changes
+
+- Updated dependencies
+  [[`cacf81d`](https://github.com/consolelabs/web-foundation/commit/cacf81d6a9798532db711c3e9805f1dcecdb6226)]:
+  - @consolelabs/theme@0.1.1
+  - @consolelabs/avatar@0.0.10
+
 ## 0.0.9
 
 ### Patch Changes

@@ -1,5 +1,20 @@
 # @consolelabs/input
 
+## 0.1.0
+
+### Minor Changes
+
+- [#236](https://github.com/consolelabs/web-foundation/pull/236)
+  [`cacf81d`](https://github.com/consolelabs/web-foundation/commit/cacf81d6a9798532db711c3e9805f1dcecdb6226)
+  Thanks [@nguyend-nam](https://github.com/nguyend-nam)! - Update input
+  component
+
+### Patch Changes
+
+- Updated dependencies
+  [[`cacf81d`](https://github.com/consolelabs/web-foundation/commit/cacf81d6a9798532db711c3e9805f1dcecdb6226)]:
+  - @consolelabs/theme@0.1.1
+
 ## 0.0.6
 
 ### Patch Changes

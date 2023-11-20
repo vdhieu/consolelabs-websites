@@ -1,5 +1,13 @@
 # @consolelabs/badge
 
+## 0.1.4
+
+### Patch Changes
+
+- Updated dependencies
+  [[`cacf81d`](https://github.com/consolelabs/web-foundation/commit/cacf81d6a9798532db711c3e9805f1dcecdb6226)]:
+  - @consolelabs/theme@0.1.1
+
 ## 0.1.3
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @consolelabs/icon-button
 
+## 0.2.1
+
+### Patch Changes
+
+- Updated dependencies
+  [[`cacf81d`](https://github.com/consolelabs/web-foundation/commit/cacf81d6a9798532db711c3e9805f1dcecdb6226)]:
+  - @consolelabs/theme@0.1.1
+
 ## 0.2.0
 
 ### Minor Changes
